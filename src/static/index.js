@@ -1,1 +1,2 @@
-hello from static :)
+// eslint-disable-next-line no-undef
+io("/");
